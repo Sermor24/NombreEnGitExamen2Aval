@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-SERGIO ALBERO MORALES2
 Cantante/Artista fav: Avicii
-=======
 SERGIO ALBERO MORALES
 16/07/2003
->>>>>>> ad758daae97b97acc197996b9991c0131c926bdb
